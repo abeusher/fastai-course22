@@ -1,0 +1,4 @@
+00 - duck duck go image search API changed -- updated code to create a DDGS object and call images()
+00 - added code to export model at end of notebook
+00 - added notebook to test loading a trained model and testing it on an input file
+
